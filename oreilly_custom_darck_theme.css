@@ -1,0 +1,57 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+/*text&background*/
+
+main, aside {
+  background: #1e1e1e !important;
+}
+
+
+html, body, tbody, thead, th, tr, td, blockquote, li, ul, h1, h2, h3, h4, h5, h6, font, strong, p, form, footer {
+
+  color: #8e8e8e !important;
+  background: #1e1e1e !important;
+  border-color: #1e1e1e !important;   
+}
+
+select, button {
+  background: #1e1e1e !important;
+}
+
+div, span, a {
+  background-color: #1e1e1e !important;
+}
+
+select, input, span, code, textarea, pre, label, div, dd, option {
+  color: #8e8e8e !important;
+  background-color: #1e1e1e !important;
+}
+
+
+/*links*/
+
+a, em {
+  color: #0040ff !important;
+  background: #1e1e1e !important;
+  text-shadow: 0px 0px #1e1e1e, 0px 0px #1e1e1e, 0px 0px #1e1e1e, 0px 0px #1f1f1f !important;
+}
+
+a:visited {
+  color: #224375 !important;
+  background: #1e1e1e !important;
+}
+
+/*highlight*/
+
+textarea, pre, input, code {
+  background-color: #1e1e1e !important;
+}
+
+img.animal-img{
+  content: '';
+  position: absolute;
+  right: 0;
+  width: 11.25rem;
+  bottom: 0;
+  max-height: 11.25rem;
+  z-index: 3;
+}
