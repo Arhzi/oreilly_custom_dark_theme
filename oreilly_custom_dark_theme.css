@@ -1,6 +1,7 @@
-@-moz-document domain("oreilly.com") {
 @namespace url(http://www.w3.org/1999/xhtml);
 /*text&background*/
+@-moz-document domain("oreilly.com") {
+
 
 main, aside {
   background: #1e1e1e !important;
