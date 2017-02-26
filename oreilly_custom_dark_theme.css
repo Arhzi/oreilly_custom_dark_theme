@@ -1,3 +1,4 @@
+@-moz-document domain("oreilly.com") {
 @namespace url(http://www.w3.org/1999/xhtml);
 /*text&background*/
 
@@ -54,4 +55,5 @@ img.animal-img{
   bottom: 0;
   max-height: 11.25rem;
   z-index: 3;
+}
 }
